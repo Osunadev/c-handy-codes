@@ -1,0 +1,1 @@
+En este repo se encuentran algunos de los programas y códigos de ejemplo que he realizado durante el trancurso de la carrera de **Ingeniería en Computación**. Realizados en las materias de *Programación Estrcuturada*, *Métodos Numéricos* y *Algoritmos y Estructuras de Datos*.
